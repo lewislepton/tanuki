@@ -14,4 +14,4 @@ enjoy, have phün & happy losing sleep making things 😘
 
 [Lewis Lepton](http://lewislepton.com)
 
-*even though i wont be updating this, i would still love to know if you have made anything using this. so please do post in the [issues](https://github.com/lewislepton/thysen/issues) section & put links to what you have made. i love seeing what other people have made using stuff i make available. plus it gives the opportunity for others to see your work somehow* 👍
+*even though i wont be updating this, i would still love to know if you have made anything using this. so please do post in the [issues](https://github.com/lewislepton/tanuki/issues) section & put links to what you have made. i love seeing what other people have made using stuff i make available. plus it gives the opportunity for others to see your work somehow* 👍
